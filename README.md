@@ -17,4 +17,4 @@ https://drive.google.com/file/d/1fWeTvstm-DvHgL5zKfsZM1BLFme319th/view?usp=shari
 1. Download the project ZIP from Google Drive.
 2. Extract the ZIP.
 3. Open the project in Godot.
-4. Press F5 to run.https://drive.google.com/file/d/1fWeTvstm-DvHgL5zKfsZM1BLFme319th/view?usp=sharing
+4. Press F5 to run.
